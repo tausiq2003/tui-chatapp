@@ -1,0 +1,16 @@
+{
+  "name": "tui-chatapp",
+  "version": "1.0.0",
+  "description": "This is a tui-chatapp, which allows users to chat through terminal",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "author": "tausiq2003",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "blessed": "^0.1.81",
+    "typescript": "^5.4.5"
+  }
+}
